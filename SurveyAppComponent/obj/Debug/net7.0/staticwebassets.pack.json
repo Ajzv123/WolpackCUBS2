@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ajzvp\\source\\repos\\SurveyAppComponent\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SurveyAppComponent.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SurveyAppComponent.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ajzvp\\source\\repos\\SurveyAppComponent\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\ajzvp\\source\\repos\\SurveyAppComponent\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SurveyAppComponent.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SurveyAppComponent.props",
+      "PackagePath": "build\\SurveyAppComponent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SurveyAppComponent.props",
+      "PackagePath": "buildMultiTargeting\\SurveyAppComponent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SurveyAppComponent.props",
+      "PackagePath": "buildTransitive\\SurveyAppComponent.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
